@@ -40,9 +40,11 @@ A desktop application built with Tkinter that offers various text analysis funct
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-tkinter-text-analysis-app.git
-    cd your-tkinter-text-analysis-app
+    git clone 
+    
     ```
+
+    NB: I will shortly add an installer!
 
 2. Run the application:
 
@@ -56,7 +58,7 @@ A desktop application built with Tkinter that offers various text analysis funct
 2. Input the text you want to analyze in the provided text field.
 3. Select the desired analysis option (Text to Speech, Word Frequency, Entity Recognition, or Summarize Document).
 4. Follow the on-screen instructions to perform the chosen analysis.
-5. Enjoy analyzing text with ease!
+
 
 ## Screenshots
 

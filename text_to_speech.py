@@ -5,7 +5,7 @@ def convert_to_speech(filename):
     # Initialize the text-to-speech engine
     engine = pyttsx3.init()
 
-    # Set properties (optional)
+    # Set properties 
     # engine.setProperty('rate', 150)  # Speed of speech
     # engine.setProperty('volume', 0.8)  # Volume (0.0 to 1.0)
 

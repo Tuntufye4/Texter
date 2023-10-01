@@ -11,3 +11,4 @@ def recognize_entities(filename):
     entities = [(ent.text, ent.label_) for ent in doc.ents]
     
     return entities
+

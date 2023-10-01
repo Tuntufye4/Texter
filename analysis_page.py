@@ -116,6 +116,7 @@ class AnalysisPage(tk.Frame):
         entities = entity_recognition.recognize_entities(self.filename)
         messagebox.showinfo("Recognize Entities", f"Entities:\n{entities}")
 
+
     def calculate_word_frequency(self):
         if not self.filename:
             messagebox.showerror("Error", "Please upload a file first.")

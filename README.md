@@ -2,7 +2,7 @@
 
 
 
-A desktop application that offers various text analysis functionalities, including text-to-speech, word frequency analysis, entity recognition, and document summarization.
+A desktop application that offers various text analysis functionalities, including text-to-speech, word frequency analysis, entity recognition, document summarization and sentiment analysis.
 
 ## Table of Contents
 - [Features](#features)

@@ -18,6 +18,7 @@ A desktop application that offers various text analysis functionalities, includi
 2. **Word Frequency Analysis**: Analyze the frequency of words in the provided text.
 3. **Entity Recognition**: Detect and extract entities.
 4. **Document Summarization**: Generate a summary of the input document.
+5. **Sentiment analysis**
 
 ## Prerequisites
 

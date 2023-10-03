@@ -10,7 +10,7 @@ A desktop application that offers various text analysis functionalities, includi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
+
 
 ## Features
 
@@ -65,9 +65,7 @@ A desktop application that offers various text analysis functionalities, includi
 
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 

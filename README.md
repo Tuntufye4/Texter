@@ -28,6 +28,7 @@ A desktop application that offers various text analysis functionalities, includi
     pip install spacy
     pip install textblob
     pip install sumy
+    pip install tkinter
     ```
 
 - Download spaCy's English language model:

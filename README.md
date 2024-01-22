@@ -46,7 +46,7 @@ A desktop application that offers various text analysis functionalities, includi
     
     ```
 
-    NB: I will shortly add an installer!
+    NB: This app will be upgraded and packaged soon!
 
 2. Run the application:
 

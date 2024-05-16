@@ -65,6 +65,8 @@ A desktop application that offers various text analysis functionalities, includi
 ## Screenshots
 
 
+*This code has been twisted a bit, if you run it ,it will probably fail...if you want the working code with an updated interface ...halla @tuntumwanyongo@gmail.com*
+
 
 
 

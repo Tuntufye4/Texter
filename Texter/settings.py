@@ -27,9 +27,9 @@ SECRET_KEY = 'django-insecure-9a!2l7++((%8e854p@rb_#$(wpc$z*0@g7#z4!$f%ur34tq9s+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'texter-glh1.onrender.com']    
 
-
+        
 # Application definition
 
 INSTALLED_APPS = [

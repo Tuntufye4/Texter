@@ -4,7 +4,6 @@ A Django REST API that offers various text analysis functionalities , including 
 
 ## Table of Contents
 - [Texter](#texter)
-  - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Prerequisites](#prerequisites)
   - [End Points](#end-points)

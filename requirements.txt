@@ -12,6 +12,7 @@ numpy>=1.26
 nltk>=3.9
 textblob>=0.17
 gensim>=4.3
+spacy
 
 # Deployment
 gunicorn>=22.0
@@ -20,4 +21,6 @@ whitenoise>=6.6
 # Optional utilities
 python-dotenv>=1.0
 requests>=2.32
-  
+pyttsx3
+sumy
+   

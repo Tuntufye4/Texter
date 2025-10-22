@@ -12,8 +12,10 @@ numpy>=1.26
 nltk>=3.9
 textblob>=0.17
 gensim>=4.3
-spacy>=3.7.1
-# Include English model so Render installs it automatically
+
+# spaCy (use wheel instead of source build)
+spacy==3.7.2
+# Prebuilt English model (no build from source)
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 
 # Text summarization & speech
@@ -28,9 +30,6 @@ whitenoise>=6.6
 python-dotenv>=1.0
 requests>=2.32
 
-# Database
-# (SQLite is built into Python—no external driver needed)
-
 # Testing
-pytest>=8.2
+pytest>=8.2   
 pytest-django>=4.8

@@ -28,7 +28,6 @@ pip install djangorestframework
 
 ## End Points
 
-### Local
 
 ```bash
 Text-to-Speech            http://127.0.0.1:8000/api/speech/tts/
@@ -37,7 +36,6 @@ Entities                  http://127.0.0.1:8000/api/entities/entities/
 Summarize                 http://127.0.0.1:8000/api/summary/summarize/
 Topic
 
-### Cloud
 
 Text-to-Speech     https://texter-front.vercel.app/
 

@@ -25,7 +25,7 @@ pip install textblob
 pip install sumy
 pip install django
 pip install djangorestframework
-
+```
 ## End Points
 
 
@@ -35,7 +35,7 @@ Word Frequency            http://127.0.0.1:8000/api/frequency/frequency/
 Entities                  http://127.0.0.1:8000/api/entities/entities/
 Summarize                 http://127.0.0.1:8000/api/summary/summarize/
 Topic
-
+```
 
 Text-to-Speech     https://texter-front.vercel.app/
 

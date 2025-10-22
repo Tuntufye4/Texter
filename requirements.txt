@@ -12,15 +12,25 @@ numpy>=1.26
 nltk>=3.9
 textblob>=0.17
 gensim>=4.3
-spacy
+spacy>=3.7.1
+# Include English model so Render installs it automatically
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
+# Text summarization & speech
+sumy
+pyttsx3
 
 # Deployment
 gunicorn>=22.0
 whitenoise>=6.6
 
-# Optional utilities
+# Environment & HTTP utilities
 python-dotenv>=1.0
 requests>=2.32
-pyttsx3
-sumy
-   
+
+# Database
+# (SQLite is built into Python—no external driver needed)
+
+# Testing
+pytest>=8.2
+pytest-django>=4.8

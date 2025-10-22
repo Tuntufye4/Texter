@@ -28,9 +28,9 @@ pip install djangorestframework
 ```
 ## End Points
 
-[Text-to-Speech](https://texter-glh1.onrender.com/api/summary/summarize/)        
+[Text-to-Speech](https://texter-glh1.onrender.com/api/speech/tts/)        
 
-[Summarize](https://texter-glh1.onrender.com/api/topic/topic)   
+[Summarize](https://texter-glh1.onrender.com/api/summary/summarize/)   
 
 [Topic](https://texter-glh1.onrender.com/api/topic/topic/) 
 

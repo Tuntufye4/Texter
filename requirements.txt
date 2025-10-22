@@ -12,11 +12,9 @@ numpy>=1.26
 nltk>=3.9
 textblob>=0.17
 gensim>=4.3
-
+  
 # spaCy (use wheel instead of source build)
-spacy==3.7.2
-# Prebuilt English model (no build from source)
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
 
 # Text summarization & speech
 sumy

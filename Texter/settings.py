@@ -40,13 +40,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'speech_service',
-    'frequency_service',
-    'entity_service',
+    'speech_service',    
     'summary_service',   
     'topic', 
 ]
-
+   
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # Vite dev server
 ]         

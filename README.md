@@ -28,12 +28,11 @@ pip install djangorestframework
 ```
 ## End Points
 
+[Text-to-Speech](https://texter-front.vercel.app/)        
 
+[Summarize](http://127.0.0.1:8000/api/summary/summarize/)   
 
-
-[Text-to-Speech](https://texter-front.vercel.app/)        http://127.0.0.1:8000/api/speech/tts/      
-[Summarize](http://127.0.0.1:8000/api/summary/summarize/)  http://127.0.0.1:8000/api/summary/summarize/                
-[Topic](https://texter-glh1.onrender.com/api/topic/topic/)  http://127.0.0.1:8000/api/topic/topic/
+[Topic](https://texter-glh1.onrender.com/api/topic/topic/) 
 
 
    
